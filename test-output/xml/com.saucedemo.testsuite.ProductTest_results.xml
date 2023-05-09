@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.322">
+  <properties />
+  
+  
+            <testcase name="verifyThatSixProductsAreDisplayedOnPage" time="0.322" classname="com.saucedemo.testsuite.ProductTest" />
+      
+</testsuite>
